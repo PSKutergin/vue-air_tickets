@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+<h2>Запуск сервера</h2>
+<h3>Установка зависимостей</h3>
+<div>
+    <p>Для установки зависимостей, выполните команды:</p>
+    <p>cd server</p>
+    <p>npm i</p>
+</div>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h3>Запуск Development сервера</h3>
+<div>
+    <p>Чтобы запустить сервер для разработки, выполните команду:</p>
+    <p>npm run dev</p>
+</div>
 
-## Recommended IDE Setup
+<h2>Запуск клиента</h2>
+<h3>Установка зависимостей</h3>
+<div>
+    <p>Для установки зависимостей, выполните команды:</p>
+    <p>cd client</p>
+    <p>npm i</p>
+</div>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<h3>Запуск Development сервера</h3>
+<div>
+    <p>Чтобы запустить сервер для разработки, выполните команду:</p>
+    <p>npm run dev</p>
+</div>
